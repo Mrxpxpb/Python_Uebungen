@@ -7,5 +7,3 @@ for number in range(1, 100):
     if output == '':
         output = str(number)
     print(output) 
-    
- 
